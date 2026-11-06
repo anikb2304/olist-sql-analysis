@@ -1,0 +1,2 @@
+Linux setup,vs code,olist setup,couldnt connecting sql in vs code,
+tomorrow's task-Create a GitHub repo and push olist-sql-analysis.
